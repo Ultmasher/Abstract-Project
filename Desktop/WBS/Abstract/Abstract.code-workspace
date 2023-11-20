@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../test-git/Group-3"
+		},
+		{
+			"path": "../New folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Group-3"
+	}
+}
